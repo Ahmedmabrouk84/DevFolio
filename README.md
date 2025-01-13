@@ -16,10 +16,9 @@ A page or section containing contact details such as email, phone number, and a 
 <a  href="https://ahmedmabrouk84.github.io/DevFolio/"> DevFolio </a>
 
 <h2>technical tools/h2>
-
-<ul>
-  <li>HTML5 </li>
-  <li>CSS3</li>
-  <li>Bootstrap</li>
-</ul>
-  
+  <ul>
+    <li>HTML5</li>
+    <li>CSS#</li>
+    <li>Bootstrap</li>
+  </ul>
+,ع

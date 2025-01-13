@@ -2,10 +2,12 @@
 <h1>key feature</h1>
 
 <ul>
-  <li>bout Section: A brief introduction about you, your skills, and experience. </li>
+  <li>About Section: A brief introduction about you, your skills, and experience.</li>
   <li>Portfolio Showcase: Examples of your projects and achievements.</li>
   <li>Responsive Design: A website that works smoothly across all devices.</li>
   <li>Contact Information: Contact details or a form for communication.</li>
+  <li>Contact Information
+A page or section containing contact details such as email, phone number, and a message submission form.</li>
 </ul>
   
 

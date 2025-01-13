@@ -22,4 +22,3 @@ A page or section containing contact details such as email, phone number, and a 
     <li>CSS#</li>
     <li>Bootstrap</li>
   </ul>
-,ع

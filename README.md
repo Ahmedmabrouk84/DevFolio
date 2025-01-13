@@ -19,6 +19,6 @@ A page or section containing contact details such as email, phone number, and a 
 
   <ul>
     <li>HTML5</li>
-    <li>CSS#</li>
+    <li>CSS3</li>
     <li>Bootstrap</li>
   </ul>

@@ -1,6 +1,7 @@
+<h1>DevFolio</h1>
 
-<h1>key feature</h1>
 
+<h2>key feature</h2>
 <ul>
   <li>About Section: A brief introduction about you, your skills, and experience.</li>
   <li>Portfolio Showcase: Examples of your projects and achievements.</li>
